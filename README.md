@@ -1,2 +1,1 @@
-# beginning-bioinformatics-
-beginning-bioinformatics  (2258-BIOL-5340-001-BIOINFORMATICS)
+Bhargavi Davanapally + 1002247026 + BIOL5340 - 001
